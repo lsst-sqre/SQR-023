@@ -8,6 +8,7 @@ Abstract
 The notebook-based test report system provides a way for LSST to generate and publish data-driven reports with an automated system. This technote describes the technical design behind the notebook-based report system.
 
 .. include:: _requirements.rst
+.. include:: _workflow-overview.rst
 
 .. .. rubric:: References
 
