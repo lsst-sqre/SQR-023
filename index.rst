@@ -15,3 +15,5 @@ The notebook-based test report system provides a way for LSST to generate and pu
 .. .. bibliography:: local.bib lsstbib/books.bib lsstbib/lsst.bib lsstbib/lsst-dm.bib lsstbib/refs.bib lsstbib/refs_ads.bib
 ..    :encoding: latex+latin
 ..    :style: lsst_aa
+
+.. include:: _links.rst
