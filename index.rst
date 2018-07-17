@@ -9,6 +9,7 @@ The notebook-based test report system provides a way for LSST to generate and pu
 
 .. include:: _requirements.rst
 .. include:: _workflow-overview.rst
+.. include:: _report-repo.rst
 
 .. .. rubric:: References
 
