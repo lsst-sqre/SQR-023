@@ -20,3 +20,5 @@ g.update(confs)
 # Example:
 #
 #     intersphinx_mapping['python'] = ('https://docs.python.org/3', None)
+
+exclude_patterns.append('_*.rst')
